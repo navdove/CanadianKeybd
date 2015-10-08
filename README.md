@@ -9,7 +9,6 @@ The first letter can only be one of the following: A, B, C, E, G, H, J, K, L, M,
 The letters O and I are never valid
 
 
-#TODO keeping postion of 'del' key anchored at same x,y
-
+#make it generic and configurable, to be able to used for other regions
 
 Ref: http://www.fampennings.nl/maarten/android/09keyboard/index.htm
